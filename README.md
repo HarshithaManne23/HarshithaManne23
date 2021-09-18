@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @HarshithaManne23
-- 👀 I’m interested in Data science, web developement,and learning new things
-- 🌱 I’m currently pursuing my undergraduate from VIT-AP
+- 👋 Hi, I’m Harshitha
+- 👀 I’m interested in Data science, Machine learning and Web developement.
+- 🌱 I’m currently pursuing my undergraduation from VIT-AP
+- 🎯 I'm always up for a talk about tech
 - 💞️ I’m looking to collaborate on Data science and machine learning related projects 
-- 📫 How to reach me  - manneharshitha31@gmail.com & harshitha.19bce7160@vitap.ac.in
+- 📫 How to reach me  - https://www.linkedin.com/in/harshitha-manne-750190190/
+- 📫 Mail id - manneharshitha31@gmail.com
 
 <!---
 HarshithaManne23/HarshithaManne23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
