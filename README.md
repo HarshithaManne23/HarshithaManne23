@@ -3,6 +3,7 @@
 - 🌱 I’m currently pursuing my undergraduation from VIT-AP
 - 🎯 I'm always up for a talk about tech
 - 💞️ I’m looking to collaborate on Data science and machine learning related projects 
+- 💻 My Portfolio - https://harshithamanne.wixsite.com/hm23
 - 📫 How to reach me  - https://www.linkedin.com/in/harshitha-manne-750190190/
 - 📫 Mail id - manneharshitha31@gmail.com
 
